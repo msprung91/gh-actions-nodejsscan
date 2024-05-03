@@ -1,4 +1,4 @@
-// added new repo to test github actions for nodejs
+// sarif permission test
 require("./db/db.js");
 const mongoose = require("mongoose");
 const express = require('express');
